@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 
-int name(char , char );
+
 
 main()
 
